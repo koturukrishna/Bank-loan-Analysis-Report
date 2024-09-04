@@ -1,8 +1,6 @@
 # Bank-loan-Analysis-Report
 Your Bank Loan Analysis Report is designed to provide a comprehensive overview of the bank's loan performance, enabling the client to make informed decisions to maximize loan recovery and assess risks effectively. The report leverages various KPIs, such as total loan applications, total funded amount, amount received, average interest rate, and debt-to-income ratio, all calculated using DAX measures in Power BI.
-
 Key insights from your report include:
-
 Loan Quality: 86.2% of loans issued are categorized as good, while 13.8% are considered bad, based on their repayment status.
 Trends and Patterns: An area chart illustrates the monthly increase in loan applications, highlighting trends over time.
 State-wise Loan Issuance: The highest number of loans is issued in California (CA), Texas (TX), and New York (NY).
